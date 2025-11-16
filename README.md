@@ -103,6 +103,7 @@ Feel free to reach out to any of the collaborators for questions or further info
 
 ## Sample of Dashboard
 <img src= "https://github.com/AdamSuriya/Uber-Trips-Data-Analysis/blob/main/Uber%20Trips%20Data%20Analysis%20Dashboard.png?raw=true">
+<img src= "https://github.com/AdamSuriya/Uber-Trips-Data-Analysis/blob/main/Uber%20Trips%20Data%20Analysis%20Dashboard%20(1).png?raw=true">
 
 ### Final Deliverables:
 1.	Cleaned and documented Uber trips dataset
