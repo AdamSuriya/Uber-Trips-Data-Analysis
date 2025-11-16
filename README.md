@@ -102,7 +102,7 @@ Feel free to reach out to any of the collaborators for questions or further info
    ```
 
 ## Sample of Dashboard
-<img src= "Dashboard.png">
+<img src= "Uber Trips Data Analysis Dashboard">
 
 ### Final Deliverables:
 1.	Cleaned and documented Uber trips dataset
