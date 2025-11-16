@@ -86,7 +86,7 @@ Feel free to reach out to any of the collaborators for questions or further info
 #### Steps for Cloning the Project
 1. **Clone the Repository**:
    ```
-   git clone 
+   git clone https://github.com/AdamSuriya/Uber-Trips-Data-Analysis
    ```
 2. **Navigate to the Project Directory**:
    ```
